@@ -1,0 +1,385 @@
+.cont {
+    background-image: url(/img/vitthal789.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+#e-com {
+    padding-top: 5px;
+    height: 70px;
+}
+
+input[type=search] {
+    width: 300px;
+    height: 30px;
+}
+
+#search1 {
+    padding-top: 10px;
+    padding-left: 400px;
+}
+
+#search2 {
+    border-radius: 5px;
+    height: 27px;
+}
+
+#italic1 {
+    text-align: center;
+    padding-top: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#top {
+    padding-top: 650px;
+}
+
+.header {
+    background-color: rgb(97, 28, 28);
+    display: flex;
+    width: 100%;
+}
+
+
+
+.head {
+    display: flex;
+    flex-direction: row;
+    padding-left: 700px;
+    justify-content: space-evenly;
+}
+
+.ofcanvas {
+    padding: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.crt {
+    color: black;
+    border-radius: 6px;
+    padding: 5px;
+    font-size: 20px;
+    background-color: white;
+    text-decoration: none;
+}
+
+.cart1 {
+    padding-top: 25px;
+    padding-left: 60px;
+
+}
+
+.kids {
+    border: 2px solid black;
+
+    height: 250px;
+    width: 250px;
+}
+
+#shop1 {
+    display: flex;
+    margin-left: 150px;
+}
+
+#shop2 {
+
+    display: flex;
+    margin-left: 50px;
+}
+
+
+.imgdiv2 {
+    height: 310px;
+    width: 260px;
+    margin-top: -20px;
+    border-radius: 5px;
+}
+
+.imgdiv2:hover {
+
+    box-shadow: 4px 4px 15px;
+}
+
+.aside {
+
+    /* border: 2px solid black; */
+    height: 400px;
+
+    width: 300px;
+}
+
+#anker {
+    width: 1245px;
+
+}
+
+.ank {
+    display: flex;
+    flex-direction: column;
+    padding-top: 70px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.imgdiv1 {
+    height: 310px;
+    border-radius: 5px;
+    width: 260px;
+}
+#imgdiv1 {
+    height: 310px;
+    border-radius: 5px;
+    width: 260px;
+}
+
+#imd2 {
+    margin-left: 120px;
+
+}
+
+#imd3 {
+    margin-left: 100px;
+}
+
+#h3 {
+    padding: 10px;
+    text-align: center;
+
+}
+
+#btn {
+    border-radius: 5px 5px;
+    font-size: large;
+    background-color: rgb(232, 26, 26);
+}
+
+#btn:hover {
+    background-color: red;
+}
+
+.imgdiv1:hover {
+    box-shadow: 4px 4px 15px;
+}
+
+.legal {
+    padding-left: 10px;
+    color: white;
+}
+
+#stuff {
+    text-align: center;
+}
+
+.b1 {
+    padding-left: 10px;
+    color: white;
+}
+
+
+
+
+
+/* CART =============================================================*/
+
+.img11 {
+    padding-top: 10px;
+
+}
+
+/* payment */
+
+#pay1 {
+    text-align: center;
+    margin-left: 450px;
+    width: 350px;
+    height: 450px;
+    border: 2px solid red;
+}
+
+.padding {
+    box-shadow: 1px 1px 1px black;
+    border-radius: 5px;
+    border: 1px solid red;
+    height: 30px;
+    width: 250px;
+    margin-top: 10px;
+}
+
+#pay2 {
+    margin-top: 50px;
+}
+
+#pay1 {
+    box-shadow: 4px 4px 4px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.month1 {
+    margin-left: 10px;
+    height: 30px;
+    width: 60px;
+    margin-top: 5px;
+    border: 1px solid red;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px black;
+}
+
+.ankpay {
+    box-shadow: 3px 3px 3px rgb(44, 44, 72);
+    ;
+    padding: 7px;
+    border: 1px solid blue;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    background-color: rgb(44, 44, 72);
+    border-radius: 5px;
+
+}
+
+/* shipping address */
+.shipadd {
+    box-shadow: 9px 9px 9px rgb(169, 170, 172);
+    background-color: aliceblue;
+    margin-top: 30px;
+    width: 380px;
+    margin-left: 460px;
+    
+
+}
+
+.fname {
+    padding-top: 20px;
+
+}
+
+#subid {
+    border-radius: 5px;
+    background-color: rgb(162, 162, 220);
+    border: 2px solid aliceblue;
+    margin-top: 30px;
+    margin-left: 140px;
+}
+
+#shipadd1{
+     margin-left: 460px;
+    
+    width: 500px;
+    height: 580px;
+    border: 2px solid black;
+}
+
+/* sign in css */
+
+#divipng {
+    border-radius: 5px 5px 5px;
+    height: 500px;
+    width: 400px;
+    background-color: lightblue;
+    margin-left: 400px;
+    margin-top: 50px;
+    box-shadow: 4px 4px 4px  blue;
+}
+#head{
+    text-align: center;
+}
+
+#divipng2 {
+    margin-top: 40px;
+    margin-left: 80px;
+
+}
+
+#divipng3{
+    margin-left: 100px;
+    margin-top: 36px;
+}
+
+#inputin1 {
+    height: 25px;
+    width: 250px;
+}
+
+#putin1 {
+    background-color: rgb(241, 241, 245);
+    padding: 7px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+#putin1:hover{
+    border: 1px solid purple;
+}
+
+
+
+#pass{
+    margin-left: 145px;
+}
+
+/* Sign Up CSS */
+
+#b3{
+    color: green;
+    margin-left: 60px;
+}
+html, body{
+    /* background-color: rgb(96, 119, 130); */
+}
+#div1 {
+    border-radius: 5px 5px 5px;
+    height: 500px;
+    width: 400px;
+    background-color: rgb(183, 137, 137);
+    margin-left: 400px;
+    margin-top: 50px;
+    box-shadow: 4px 4px 4px;
+}
+
+#div2 {
+    margin-top: 10px;
+    margin-left: 70px;
+
+}
+
+#div3{
+    margin-left: 100px;
+    margin-top: 105px;
+}
+
+#input {
+    height: 25px;
+    width: 250px;
+}
+
+#put {
+    color: black;
+    background-color: rgb(122, 145, 125);
+    padding: 7px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 80px;
+}
+#put:hover{
+    border: 1px solid purple;
+}
+
+
+#fbook {
+    margin-left: 150px;
+    text-decoration: none;
+}
+#img1{
+    margin-left: 150px;
+    margin-top: 50px;
+
+
+}
